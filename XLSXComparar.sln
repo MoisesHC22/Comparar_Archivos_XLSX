@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XLSXComparar", "XLSXComparar\XLSXComparar.csproj", "{BB1CF910-C080-440C-8EC4-1AD394C654B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1CF910-C080-440C-8EC4-1AD394C654B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1CF910-C080-440C-8EC4-1AD394C654B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1CF910-C080-440C-8EC4-1AD394C654B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1CF910-C080-440C-8EC4-1AD394C654B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AE3C527-ED3A-4907-997A-B4F1B640646E}
+	EndGlobalSection
+EndGlobal
